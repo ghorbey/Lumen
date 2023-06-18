@@ -4,7 +4,7 @@ Compatible with FoundryVTT 10+.
 
 # Installation
 
-**System Manifest:** []()
+**System Manifest:** [Lumen system manifest](https://github.com/ghorbey/lumen/releases/latest/download/system.json)
 
 # Usage
 
@@ -12,7 +12,7 @@ Compatible with FoundryVTT 10+.
 
 # Contributing
 
-This project is accepting issue reports and code merge requests! See the [CONTRIBUTING.MD]() page for details.
+This project is accepting issue reports and code merge requests! See the [CONTRIBUTING.MD](https://github.com/ghorbey/lumen/CONTRIBUTING.md) page for details.
 
 ## Translations
 
@@ -35,4 +35,4 @@ Once the repo has been built, you should symlink the contents of the `dist` dire
 
 # Licensing
 
-All HTML, CSS, and JS is licensed under the [MIT license]().
+All HTML, CSS, and JS is licensed under the [MIT license](https://github.com/ghorbey/lumen/LICENSE).
