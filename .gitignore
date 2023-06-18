@@ -1,0 +1,15 @@
+# IDE
+.vscode/**
+.idea/**
+.devcontainer
+
+# NPM
+node_modules/**
+
+# Build
+foundryconfig.json
+stats.html
+dist/**/*
+package/**
+debug.log
+foundry.js

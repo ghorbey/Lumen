@@ -1,0 +1,41 @@
+{
+  "id": "lumen",
+  "name": "lumen",
+  "title": "Lumen",
+  "description": "My System",
+  "version": "0.0.1",
+  "minimumCoreVersion": "10",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.291",
+    "maximum": 10
+  },
+  "authors": [
+    {
+      "name": "GhorghorBey"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "gridDistance": 1,
+  "gridUnits": "",
+  "primaryTokenAttribute": "",
+  "secondaryTokenAttribute": "",
+  "url": "https://github.com/ghorbey/lumen",
+  "manifest": "https://github.com/ghorbey/lumen/releases/latest/download/system.json",
+  "download": "https://github.com/ghorbey/lumen/releases/download/v0.0.1/lumen-v0.0.1.zip",
+  "license": "MIT",
+  "readme": "https://github.com/ghorbey/lumen/releases/README.md",
+  "bugs": "https://github.com/ghorbey/lumen/issues/new/choose",
+  "changelog": "https://github.com/ghorbey/lumen/releases/CHANGELOG.md"
+}
