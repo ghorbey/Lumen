@@ -35,4 +35,4 @@ Once the repo has been built, you should symlink the contents of the `dist` dire
 
 # Licensing
 
-All HTML, CSS, and JS is licensed under the [MIT license](https://github.com/ghorbey/lumen/LICENSE).
+All HTML, CSS, and JS is licensed under the [MIT license](https://github.com/ghorbey/lumen/LICENSE.txt).
