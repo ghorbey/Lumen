@@ -1,1 +1,31 @@
-{}
+{
+  "Actor": {
+    "types": ["character", "npc"],
+    "templates": { "base": { "description": "", "name": "" } },
+    "character": {
+      "templates": ["base"],
+      "class": ""
+    },
+    "npc": {
+      "templates": ["base"]
+    }
+  },
+  "Item": {
+    "types": ["item", "power"],
+    "templates": {
+      "base": {
+        "description": ""
+      }
+    },
+    "item": {
+      "templates": ["base"],
+      "quantity": 1,
+      "weight": 0
+    },
+    "power": {
+      "templates": ["base"],
+      "usage": "",
+      "roll": ""
+    }
+  }
+}

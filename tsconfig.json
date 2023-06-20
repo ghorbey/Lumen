@@ -3,8 +3,8 @@
     "allowImportingTsExtensions": true,
     "esModuleInterop": true,
     "importsNotUsedAsValues": "remove",
-    "isolatedModules": true,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "isolatedModules": false,
+    "lib": ["ESNext", "DOM"],
     "module": "ESNext",
     "moduleResolution": "node",
     "noEmit": true,
@@ -16,8 +16,9 @@
     "sourceMap": true,
     "strict": true,
     "strictNullChecks": true,
-    "target": "ES2020",
-    "useDefineForClassFields": true
+    "target": "ESNext",
+    "useDefineForClassFields": false,
+    "types": ["@league-of-foundry-developers/foundry-vtt-types"]
   },
   "include": ["src/**/*.d.ts", "src/**/*.ts", "src/**/*.js"]
 }

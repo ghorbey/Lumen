@@ -28,7 +28,7 @@ If applicable, add screenshots to help explain your problem.
 - OS: [e.g. Windows]
 - Browser [e.g. chrome, firefox]
 - Foundry version [e.g. 0.6.6]
-- Lancer system version [e.g. 0.1.10]
+- Lumen system version [e.g. 0.1.10]
 
 **Additional context**
 Add any other context about the problem here.
