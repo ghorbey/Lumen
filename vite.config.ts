@@ -1,6 +1,5 @@
 import type { UserConfig } from 'vite';
 import path from 'path';
-import checker from 'vite-plugin-checker';
 
 const config: UserConfig = {
   root: 'src/',
@@ -33,14 +32,9 @@ const config: UserConfig = {
       name: 'lumen',
       entry: path.resolve(__dirname, 'src/lumen.ts'),
       formats: ['es'],
-      fileName: 'lumen'
+      fileName: 'index'
     }
-  },
-  plugins: [
-    checker({
-      typescript: true
-    })
-  ]
+  }
 };
 
 export default config;

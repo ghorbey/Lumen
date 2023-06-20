@@ -16,8 +16,8 @@
     }
   ],
   "scripts": [],
-  "esmodules": ["lumen.js"],
-  "styles": ["lumen.css"],
+  "esmodules": ["index.js"],
+  "styles": ["style.css"],
   "packs": [],
   "languages": [
     {
